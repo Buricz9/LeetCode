@@ -1,17 +1,24 @@
 package main
 
+import "fmt"
+
 func main() {
 
-	println(twoSum([]int{2, 7, 11, 15}, 9))
+	fmt.Println(twoSum([]int{2, 7, 11, 15}, 9))
 }
 
 func twoSum(nums []int, target int) []int {
-	for i := 0; i < len(nums); i++ {
-		for j := i + 1; j < len(nums); j++ {
-			if nums[i]+nums[j] == target {
-				return []int{i, j}
-			}
+	seen := make(map[int]int)
+
+	for index, value := range nums {
+		want := target - value
+
+		if val, ok := seen[want]; ok {
+			return []int{val, index}
 		}
+
+		seen[value] = index
 	}
+
 	return []int{}
 }
