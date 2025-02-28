@@ -10,4 +10,6 @@ func main() {
 	fmt.Println(romanToInt("IV"))    //4
 	fmt.Println(romanToInt("IX"))    //9
 	fmt.Println(romanToInt("LVIII")) //58
+
+	fmt.Println(twoSum([]int{2, 7, 11, 15}, 9))
 }
