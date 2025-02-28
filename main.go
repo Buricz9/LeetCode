@@ -22,7 +22,7 @@ func main() {
 	//result := addTwoNumbers(l1, l2)
 	//printList(result) //  output: 7 -> 0 -> 8
 
-	fmt.Println(lengthOfLongestSubstring("abca"))   //3
+	fmt.Println(lengthOfLongestSubstring("dvdf"))   //3
 	fmt.Println(lengthOfLongestSubstring("abcd"))   //4
 	fmt.Println(lengthOfLongestSubstring("abcdea")) //5
 	fmt.Println(lengthOfLongestSubstring("pwwkew")) //3

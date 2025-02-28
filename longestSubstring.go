@@ -1,24 +1,16 @@
 package main
 
 func lengthOfLongestSubstring(s string) int {
+	foundCharLastAt := make(map[byte]int)
+	maxLength := 0
 
-	mapString := make(map[string]int)
-	count := 0
-	longest := 0
-	for i := 0; i < len(s); i++ {
-		if _, ok := mapString[string(s[i])]; !ok {
-			count++
-			mapString[string(s[i])] = i
-			if count > longest {
-				longest = count
-			}
-		} else {
-			if i != len(s)-1 {
-				count = 0
-				i = mapString[string(s[i])]
-				mapString = make(map[string]int)
-			}
+	for i, j := 0, 0; j < len(s); j++ {
+		if lastIndex, exists := foundCharLastAt[s[j]]; exists {
+			i = max(i, lastIndex+1)
 		}
+		maxLength = max(maxLength, j-i+1)
+		foundCharLastAt[s[j]] = j
 	}
-	return longest
+
+	return maxLength
 }
