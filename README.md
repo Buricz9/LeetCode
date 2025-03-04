@@ -1,6 +1,8 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+stringToInteger - https://leetcode.com/problems/string-to-integer-atoi/description/
+
 reverseInteger - https://leetcode.com/problems/reverse-integer/
 
 zigzagConversion - https://leetcode.com/problems/zigzag-conversion/description/
