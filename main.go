@@ -22,6 +22,9 @@ func main() {
 	//fmt.Println("Longest Palindrome Substring")
 	//callLongestPalindromeSubstring()
 
-	fmt.Println("Zigzag conversion")
-	callConversion()
+	//fmt.Println("Zigzag conversion")
+	//callConversion()
+
+	fmt.Println("Reverse integer")
+	callReverse()
 }
