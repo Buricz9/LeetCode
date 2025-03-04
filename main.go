@@ -19,6 +19,9 @@ func main() {
 	//fmt.Println("Longest Substring")
 	//callLongestSubstring()
 
-	fmt.Println("Longest Palindrome Substring")
-	callLongestPalindromeSubstring()
+	//fmt.Println("Longest Palindrome Substring")
+	//callLongestPalindromeSubstring()
+
+	fmt.Println("Zigzag conversion")
+	callConversion()
 }
