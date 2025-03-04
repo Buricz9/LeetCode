@@ -1,6 +1,8 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+zigzagConversion - https://leetcode.com/problems/zigzag-conversion/description/
+
 palindromeNumber - https://leetcode.com/problems/palindrome-number/description/
 
 twoSum - https://leetcode.com/problems/two-sum/description/
