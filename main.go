@@ -25,6 +25,9 @@ func main() {
 	//fmt.Println("Zigzag conversion")
 	//callConversion()
 
-	fmt.Println("Reverse integer")
-	callReverse()
+	//fmt.Println("Reverse integer")
+	//callReverse()
+
+	fmt.Println("String to Integer")
+	callMyAtoi()
 }
