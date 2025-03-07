@@ -28,6 +28,9 @@ func main() {
 	//fmt.Println("Reverse integer")
 	//callReverse()
 
-	fmt.Println("String to Integer")
-	callMyAtoi()
+	//fmt.Println("String to Integer")
+	//callMyAtoi()
+
+	fmt.Println("Max Area")
+	callMaxArea()
 }
