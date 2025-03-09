@@ -1,6 +1,8 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+rotateArray - https://leetcode.com/problems/rotate-array/description/
+
 removeDuplicatesFromSortedArray - https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
 
 romanToInteger - https://leetcode.com/problems/integer-to-roman/description/
