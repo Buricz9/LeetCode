@@ -34,6 +34,9 @@ func main() {
 	//fmt.Println("Max Area")
 	//callMaxArea()
 
-	fmt.Println("Int to Roman")
-	callIntToRoman()
+	//fmt.Println("Int to Roman")
+	//callIntToRoman()
+
+	fmt.Println("Remove duplicates from sorted array")
+	callRemoveDuplicates()
 }
