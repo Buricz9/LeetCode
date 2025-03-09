@@ -37,6 +37,9 @@ func main() {
 	//fmt.Println("Int to Roman")
 	//callIntToRoman()
 
-	fmt.Println("Remove duplicates from sorted array")
-	callRemoveDuplicates()
+	//fmt.Println("Remove duplicates from sorted array")
+	//callRemoveDuplicates()
+
+	fmt.Println("Rotate Array")
+	callRotateArray()
 }
