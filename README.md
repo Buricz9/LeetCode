@@ -1,6 +1,8 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+climbStairs - https://leetcode.com/problems/climbing-stairs/description/
+
 rotateArray - https://leetcode.com/problems/rotate-array/description/
 
 removeDuplicatesFromSortedArray - https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
