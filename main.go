@@ -40,6 +40,9 @@ func main() {
 	//fmt.Println("Remove duplicates from sorted array")
 	//callRemoveDuplicates()
 
-	fmt.Println("Rotate Array")
-	callRotateArray()
+	//fmt.Println("Rotate Array")
+	//callRotateArray()
+
+	fmt.Println("Climbing Stairs")
+	callClimbingStairs()
 }
