@@ -43,6 +43,9 @@ func main() {
 	//fmt.Println("Rotate Array")
 	//callRotateArray()
 
-	fmt.Println("Climbing Stairs")
-	callClimbingStairs()
+	//fmt.Println("Climbing Stairs")
+	//callClimbingStairs()
+
+	fmt.Println("Jump Game")
+	callCanJump()
 }
