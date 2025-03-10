@@ -1,6 +1,8 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+jumpGame - https://leetcode.com/problems/jump-game/description/
+
 climbStairs - https://leetcode.com/problems/climbing-stairs/description/
 
 rotateArray - https://leetcode.com/problems/rotate-array/description/
