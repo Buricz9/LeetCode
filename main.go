@@ -46,6 +46,9 @@ func main() {
 	//fmt.Println("Climbing Stairs")
 	//callClimbingStairs()
 
-	fmt.Println("Jump Game")
-	callCanJump()
+	//fmt.Println("Jump Game")
+	//callCanJump()
+
+	fmt.Println("Frequency sorted")
+	callFrequencySorted()
 }
