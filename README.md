@@ -1,6 +1,8 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+hIndex - https://leetcode.com/problems/h-index/description/
+
 prisonBreak - interview question
 
 balancedArray - interview question
