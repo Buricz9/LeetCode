@@ -61,7 +61,10 @@ func main() {
 	//fmt.Println("H-Index")
 	//callHIndex()
 
-	fmt.Println("randomizedSet")
-	callRandomizedSet()
+	//fmt.Println("randomizedSet")
+	//callRandomizedSet()
+
+	fmt.Println("ProductExceptSelf")
+	callProductExceptSelf()
 
 }
