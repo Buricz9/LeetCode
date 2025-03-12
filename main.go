@@ -52,6 +52,9 @@ func main() {
 	//fmt.Println("Frequency sorted")
 	//callFrequencySorted()
 
-	fmt.Println("Balanced Array")
-	callBalancedArray()
+	//fmt.Println("Balanced Array")
+	//callBalancedArray()
+
+	fmt.Println("Prison break")
+	callPrisonBreak()
 }
