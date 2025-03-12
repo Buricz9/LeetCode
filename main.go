@@ -49,6 +49,9 @@ func main() {
 	//fmt.Println("Jump Game")
 	//callCanJump()
 
-	fmt.Println("Frequency sorted")
-	callFrequencySorted()
+	//fmt.Println("Frequency sorted")
+	//callFrequencySorted()
+
+	fmt.Println("Balanced Array")
+	callBalancedArray()
 }
