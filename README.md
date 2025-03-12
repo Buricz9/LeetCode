@@ -1,6 +1,10 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+balancedArray - interview question
+
+frequencySort - interview question
+
 jumpGame - https://leetcode.com/problems/jump-game/description/
 
 climbStairs - https://leetcode.com/problems/climbing-stairs/description/
