@@ -1,6 +1,8 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+productExceptSelf - https://leetcode.com/problems/product-of-array-except-self/description/
+
 randomizedSet - https://leetcode.com/problems/insert-delete-getrandom-o1/description/
 
 hIndex - https://leetcode.com/problems/h-index/description/
