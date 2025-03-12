@@ -55,6 +55,9 @@ func main() {
 	//fmt.Println("Balanced Array")
 	//callBalancedArray()
 
-	fmt.Println("Prison break")
-	callPrisonBreak()
+	//fmt.Println("Prison break")
+	//callPrisonBreak()
+
+	fmt.Println("H-Index")
+	callHIndex()
 }
