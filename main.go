@@ -58,6 +58,10 @@ func main() {
 	//fmt.Println("Prison break")
 	//callPrisonBreak()
 
-	fmt.Println("H-Index")
-	callHIndex()
+	//fmt.Println("H-Index")
+	//callHIndex()
+
+	fmt.Println("randomizedSet")
+	callRandomizedSet()
+
 }
