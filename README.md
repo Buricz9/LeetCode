@@ -1,6 +1,8 @@
 # LeetCode
 Repository for tasks from LeetCode
 
+lengthOfLastWord - https://leetcode.com/problems/length-of-last-word/description/
+
 canCompleteCircuit - https://leetcode.com/problems/gas-station/description/
 
 productExceptSelf - https://leetcode.com/problems/product-of-array-except-self/description/
