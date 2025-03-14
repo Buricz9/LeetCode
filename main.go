@@ -64,7 +64,9 @@ func main() {
 	//fmt.Println("randomizedSet")
 	//callRandomizedSet()
 
-	fmt.Println("ProductExceptSelf")
-	callProductExceptSelf()
+	//fmt.Println("ProductExceptSelf")
+	//callProductExceptSelf()
 
+	fmt.Println("Can complete circuit")
+	callCanCompleteCircuit()
 }
