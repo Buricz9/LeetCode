@@ -67,6 +67,9 @@ func main() {
 	//fmt.Println("ProductExceptSelf")
 	//callProductExceptSelf()
 
-	fmt.Println("Can complete circuit")
-	callCanCompleteCircuit()
+	//fmt.Println("Can complete circuit")
+	//callCanCompleteCircuit()
+
+	fmt.Println("Length of the last word")
+	callLengthOfLastWord()
 }
