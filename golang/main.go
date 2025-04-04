@@ -72,4 +72,5 @@ func main() {
 
 	fmt.Println("Length of the last word")
 	callLengthOfLastWord()
+
 }
